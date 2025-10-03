@@ -84,7 +84,7 @@ Deberíamos reducir la carga cognitiva en nuestros proyectos en la medida posibl
 
 <!-- **Intrinsic** - caused by the inherent difficulty of a task. It can't be reduced, it's at the very heart of software development. -->
 
-**Intinseca** - causada por la dificultad inherente a la tarea. No puede ser reducida, ya que constituye el núcleo fundamental del trabajo de un ingeniero de software
+**Intrinseca** - causada por la dificultad inherente a la tarea. No puede ser reducida, ya que constituye el núcleo fundamental del trabajo de un ingeniero de software
 
 <!-- **Extraneous** - created by the way the information is presented. Caused by factors not directly relevant to the task, such as smart author's quirks. Can be greatly reduced. We will focus on this type of cognitive load. -->
 
@@ -107,8 +107,6 @@ Vamos directamente a ejemplos concretos de Carga Cognitiva Extrínseca
 <!-- We will refer to the level of cognitive load as follows:`🧠`: fresh working memory, zero cognitive load `🧠++`: two facts in our working memory, cognitive load increased `🤯`: cognitive overload, more than 4 facts -->
 
 Nos vamos a referir a los niveles de carga cognitiva como sigue: `🧠`: memoria de trabajo fresca, sin carga cognitiva `🧠++`: al menos dos datos en nuestra memoria de trabajo, carga cognitiva moderada `🤯`: sobrecarga cognitiva, más de 4 datos
-
-Nos vamos a referir a los niveles de carga cognitiva como sigue: `🧠`: memoria de trabajo fresca, sin carga cognitiva`🧠++`: al menos dos datos en nuestra memoria de trabajo, carga cognitiva moderada`🤯`: sobrecarga cognitiva, más de 4 datos.
 
 <!-- > Our brain is much more complex and unexplored, but we can go with this simplistic model. -->
 
