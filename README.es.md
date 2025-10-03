@@ -46,7 +46,7 @@ Dado que se invierte más tiempo leyendo y tratando de entender el código del q
 
 <!-- When reading code, you put things like values of variables, control flow logic and call sequences into your head. The average person can hold roughly [four such chunks](https://github.com/zakirullin/cognitive-load/issues/16) in working memory. Once the cognitive load reaches this threshold, it becomes much harder to understand things. -->
 
-Cuando se lee el código, se colocan elementos como valores, variables, controles de flujo, lógica y llamados de secuencia en la mente. La persona promedio puede retener aproximadamente unos [c](https://github.com/zakirullin/cognitive-load/issues/16)[cuatro elementos](https://github.com/zakirullin/cognitive-load/issues/16) en su memoria de trabajo. Una vez que la carga cognitiva excede un determinado límite, se vuelve muy difícil entender ciertas cosas.
+Cuando se lee el código, se colocan elementos como valores, variables, controles de flujo, lógica y llamados de secuencia en la mente. La persona promedio puede retener aproximadamente unos [cuatro elementos](https://github.com/zakirullin/cognitive-load/issues/16) en su memoria de trabajo. Una vez que la carga cognitiva excede un determinado límite, se vuelve muy difícil entender ciertas cosas.
 
 <!-- *Let's say we have been asked to make some fixes to a completely unfamiliar project. We were told that a really smart developer had contributed to it. Lots of cool architectures, fancy libraries and trendy technologies were used. In other words, **the author had created a high cognitive load for us.*** -->
 
